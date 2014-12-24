@@ -1,2 +1,6 @@
 eclipse.preferences.version=1
+encoding/mongo_tool.py=utf-8
 encoding/test.py=utf-8
+encoding/testFullSearch.py=utf-8
+encoding/testmongo.py=utf-8
+encoding/twiiter.py=utf-8
